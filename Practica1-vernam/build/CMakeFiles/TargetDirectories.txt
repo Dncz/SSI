@@ -1,0 +1,3 @@
+/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica1/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica1/build/CMakeFiles/main.dir
+/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica1/build/CMakeFiles/edit_cache.dir
