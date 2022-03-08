@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica2-modificación/P3-RC4.cpp
+iostream
+-
+vector
+-
+bits/stdc++.h
+-
+stdlib.h
+-
+
