@@ -1,3 +1,0 @@
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica3-Chacha20/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica3-Chacha20/CMakeFiles/chacha20.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica3-Chacha20/CMakeFiles/edit_cache.dir
