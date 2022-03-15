@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica3-Chacha20/main.cpp
+stdlib.h
+-
+string.h
+-
+stdio.h
+-
+iostream
+-
+iomanip
+-
+vector
+-
+
