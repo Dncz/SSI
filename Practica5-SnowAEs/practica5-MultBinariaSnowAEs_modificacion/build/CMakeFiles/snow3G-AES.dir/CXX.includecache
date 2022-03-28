@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/Practica5-SnowAEs/practica5-MultBinariaSnowAEs_modificacion/snow3G-AES.cpp
+iostream
+-
+bitset
+-
+
