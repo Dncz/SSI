@@ -1,3 +1,0 @@
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/Practica5-SnowAEs/practica5-MultBinariaSnowAEs_modificacion/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/Practica5-SnowAEs/practica5-MultBinariaSnowAEs_modificacion/build/CMakeFiles/snow3G-AES.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/Practica5-SnowAEs/practica5-MultBinariaSnowAEs_modificacion/build/CMakeFiles/edit_cache.dir
