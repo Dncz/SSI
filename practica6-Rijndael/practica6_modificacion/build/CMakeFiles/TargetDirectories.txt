@@ -1,3 +1,0 @@
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica6-Rijndael/practica6_modificacion/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica6-Rijndael/practica6_modificacion/build/CMakeFiles/mainAES.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica6-Rijndael/practica6_modificacion/build/CMakeFiles/edit_cache.dir
