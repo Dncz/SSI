@@ -1,3 +1,0 @@
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica7/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica7/build/CMakeFiles/mainAesCBC.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica7/build/CMakeFiles/edit_cache.dir
