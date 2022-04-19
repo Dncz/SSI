@@ -14,7 +14,7 @@
 
 - práctica 6: [Cifrado en bloque- Algoritmo Rijndael](https://github.com/Dncz/SSI/tree/main/practica6-Rijndael/practica6).
 
-- práctica 7: [Modos de cifrado en bloque](https://github.com/Dncz/SSI/tree/main/practica7).
+- práctica 7: [Modos de cifrado en bloque](https://github.com/Dncz/SSI/tree/main/practica7-AES-CBC).
 
 - práctica 8: [Intercambio de claves de Diffie-Hellman y el Cifrado de ElGamal]().
 
