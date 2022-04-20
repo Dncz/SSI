@@ -16,6 +16,6 @@
 
 - práctica 7: [Modos de cifrado en bloque](https://github.com/Dncz/SSI/tree/main/practica7-AES-CBC).
 
-- práctica 8: [Intercambio de claves de Diffie-Hellman y el Cifrado de ElGamal]().
+- práctica 8: [Intercambio de claves de Diffie-Hellman y el Cifrado de ElGamal](https://github.com/Dncz/SSI/tree/main/practica8-DH-ElGamal).
 
 - práctica 9: [enunciado]().
