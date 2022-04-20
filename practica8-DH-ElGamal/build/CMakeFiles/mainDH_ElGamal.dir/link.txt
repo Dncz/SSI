@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mainDH_ElGamal.dir/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica8-DH-ElGamal/main.cpp.o  -o mainDH_ElGamal 
