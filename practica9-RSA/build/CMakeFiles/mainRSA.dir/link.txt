@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mainRSA.dir/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica9-RSA/main.cpp.o  -o mainRSA 
