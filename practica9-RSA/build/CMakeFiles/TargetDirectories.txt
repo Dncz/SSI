@@ -1,3 +1,0 @@
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica9-RSA/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica9-RSA/build/CMakeFiles/mainRSA.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica9-RSA/build/CMakeFiles/edit_cache.dir
