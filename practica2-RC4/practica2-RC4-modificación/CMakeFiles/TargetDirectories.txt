@@ -1,3 +1,0 @@
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica2-modificación/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica2-modificación/CMakeFiles/rc4.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica2-modificación/CMakeFiles/edit_cache.dir
