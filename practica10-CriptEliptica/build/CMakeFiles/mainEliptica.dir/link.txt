@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/mainEliptica.dir/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/practica10-CriptEliptica/main.cpp.o  -o mainEliptica 
