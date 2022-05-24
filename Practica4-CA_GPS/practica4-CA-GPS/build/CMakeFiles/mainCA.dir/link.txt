@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/mainCA.dir/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/Practica4-CA_GPS/practica4-CA-GPS/mainCA.cpp.o  -o mainCA 
