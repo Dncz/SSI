@@ -1,3 +1,0 @@
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/Practica4-CA_GPS/practica4-CA-GPS_modificacion/build/CMakeFiles/rebuild_cache.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/Practica4-CA_GPS/practica4-CA-GPS_modificacion/build/CMakeFiles/mainCA.dir
-/mnt/c/Users/uSer/OneDrive/Escritorio/SSI/Practica4-CA_GPS/practica4-CA-GPS_modificacion/build/CMakeFiles/edit_cache.dir
