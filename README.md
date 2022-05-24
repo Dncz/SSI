@@ -18,4 +18,10 @@
 
 - práctica 8: [Intercambio de claves de Diffie-Hellman y el Cifrado de ElGamal](https://github.com/Dncz/SSI/tree/main/practica8-DH-ElGamal).
 
-- práctica 9: [enunciado]().
+- práctica 9: [Cifrado de clave pública RSA](https://github.com/Dncz/SSI/tree/main/practica9-RSA).
+
+- práctica 11: GPG (clase tutorizada).
+
+- práctica 10: [Algoritmo de Diffie-Hellman y el cifrado de ElGamal](https://github.com/Dncz/SSI/tree/main/practica10-CriptEliptica).
+
+- práctica 12: [Menú y protocolo de Feige-Fiat-Shamir](https://github.com/Dncz/SSI/tree/main/practica12-menu).
